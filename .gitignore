@@ -1,0 +1,8 @@
+.venv/
+.deps/
+__pycache__/
+.env
+.youtrack-users.json
+.youtrack-users.json.tmp
+.youtrack-backups/
+.DS_Store
